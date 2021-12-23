@@ -6,3 +6,5 @@ Two Unsupervised Learning Algorithm have been used on CIFAR-10 Dataset, K-Means 
 2) Auto-Encoders which are Neural Network Equivalent for the Unsupervised Learning is used for Reduced Dimension Encoded Images for the clustering.
 
 For Evaluation Metrics Dunn's Index has been used for Cluster Quality Detection.
+
+As a part of CSE 574 Intro to Machine Learning Project Assignment.
